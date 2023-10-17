@@ -916,8 +916,8 @@ GameObject:
   - component: {fileID: 1273933924}
   - component: {fileID: 1273933923}
   - component: {fileID: 1273933922}
-  m_Layer: 0
-  m_Name: Door
+  m_Layer: 8
+  m_Name: Door_Plate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1022,8 +1022,8 @@ GameObject:
   - component: {fileID: 1302338235}
   - component: {fileID: 1302338234}
   - component: {fileID: 1302338233}
-  m_Layer: 0
-  m_Name: Trap
+  m_Layer: 7
+  m_Name: Trap_Plate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1131,6 +1131,8 @@ GameObject:
   - component: {fileID: 1327911272}
   - component: {fileID: 1327911271}
   - component: {fileID: 1327911273}
+  - component: {fileID: 1327911274}
+  - component: {fileID: 1327911275}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -1291,6 +1293,38 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1327911274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327911266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: b13fd6cbdeadc25488de5ddd1323fec0, type: 2}
+--- !u!114 &1327911275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327911266}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 32aef626b3ac54f4aaf99997e98ff234, type: 2}
 --- !u!1 &1448546632
 GameObject:
   m_ObjectHideFlags: 0
