@@ -222,3 +222,144 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 298.222748 seconds.
+  path: Assets/Ammo_Text.asset
+  artifactKey: Guid(4fc37e04c3d4c70418d9980d1fc438e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ammo_Text.asset using Guid(4fc37e04c3d4c70418d9980d1fc438e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ea85db7059e6d4788bccee12fae8b13') in 0.450192 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Final_Platform.asset
+  artifactKey: Guid(ed286e2a242c5164d9beb615ddbcff3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Final_Platform.asset using Guid(ed286e2a242c5164d9beb615ddbcff3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8062485d825d3c98c07e6c5ff02f5694') in 0.041715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Player_DoorPlate_interaction.asset
+  artifactKey: Guid(32aef626b3ac54f4aaf99997e98ff234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player_DoorPlate_interaction.asset using Guid(32aef626b3ac54f4aaf99997e98ff234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65484077243182522ccba5d8ab635048') in 0.009001 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Enemy_chase_movement.asset
+  artifactKey: Guid(5e3541e13cc9a8f43ad081a382e45e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy_chase_movement.asset using Guid(5e3541e13cc9a8f43ad081a382e45e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c00ba84f23af4047f016647ca85597') in 0.039928 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Coin_Script.asset
+  artifactKey: Guid(44cde377aadfada48b24e5ae3cb17d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coin_Script.asset using Guid(44cde377aadfada48b24e5ae3cb17d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422cf476b1dbd2b904e356cc7da3cf9b') in 0.004681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Score.asset
+  artifactKey: Guid(2a8c9b23a6af2704eac7e7022e46a17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Score.asset using Guid(2a8c9b23a6af2704eac7e7022e46a17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efcaa0ce3d51138ccb6987244be93b1c') in 0.001065 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/ScoreDisplay.asset
+  artifactKey: Guid(030fd9942cb09354b8f48bba8cbad59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScoreDisplay.asset using Guid(030fd9942cb09354b8f48bba8cbad59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86650e3379de88200674b76149d70d4') in 0.001530 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000009 seconds.
+  path: Assets/Player_trap_interaction.asset
+  artifactKey: Guid(b13fd6cbdeadc25488de5ddd1323fec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player_trap_interaction.asset using Guid(b13fd6cbdeadc25488de5ddd1323fec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '283cfcb8ab138bea2a80541dc4f874b6') in 0.002099 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Francis_talk.asset
+  artifactKey: Guid(92492710cea4ed2429ed440aa6b210e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Francis_talk.asset using Guid(92492710cea4ed2429ed440aa6b210e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3611a0dd90bc8d4cc34ddd0a598bf65c') in 0.003957 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Dialogue_text_script.asset
+  artifactKey: Guid(c8d41d9c0bc88384c95e749a99278a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dialogue_text_script.asset using Guid(c8d41d9c0bc88384c95e749a99278a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4913ee6d23855f44bf695f2bf1f2db7b') in 0.001541 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Main_UI_script.asset
+  artifactKey: Guid(4f371f3ccf517104f818e35d40dc14e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main_UI_script.asset using Guid(4f371f3ccf517104f818e35d40dc14e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '494ce7189671d9ccb2d834ee1812d3e8') in 0.001918 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Boolet_code.asset
+  artifactKey: Guid(9c8e9ad8e8aabe043b22480b6a7d7711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Boolet_code.asset using Guid(9c8e9ad8e8aabe043b22480b6a7d7711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e19c9a1ded4f9171143127b94c2979fc') in 0.001412 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/communication.asset
+  artifactKey: Guid(606104d8a7a8d524a83d4d2dbc6eb1be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/communication.asset using Guid(606104d8a7a8d524a83d4d2dbc6eb1be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd79a7d2f74eb22230b54d835cb95002') in 0.001366 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Score_tracker.asset
+  artifactKey: Guid(0b56598aa71aabd43abc8257f7f4a078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Score_tracker.asset using Guid(0b56598aa71aabd43abc8257f7f4a078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f45b6f92dbc8400701e0917344e0b36') in 0.001063 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Score_text.asset
+  artifactKey: Guid(09dcf71022da82c40b70d34b41183761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Score_text.asset using Guid(09dcf71022da82c40b70d34b41183761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def7de5dfb6a24cd79bedc72d4eaa5e0') in 0.001542 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000008 seconds.
+  path: Assets/Enemy_3_movement.asset
+  artifactKey: Guid(031734854af25824790dff87f9b7949c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemy_3_movement.asset using Guid(031734854af25824790dff87f9b7949c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fc73db107800860962d5d0d3df5424e') in 0.001276 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000007 seconds.
+  path: Assets/Player_movement.asset
+  artifactKey: Guid(74703563c4a2afa4b88e384ec8ad9a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player_movement.asset using Guid(74703563c4a2afa4b88e384ec8ad9a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a056334636880365597917177d71a6ad') in 0.071926 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
